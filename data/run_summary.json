@@ -1,0 +1,25 @@
+{
+  "status": "completed",
+  "error": null,
+  "sumo_version": [
+    22,
+    "SUMO 1.26.0"
+  ],
+  "simulation_end_s": 21600.0,
+  "demand_end_s": 21600.0,
+  "road_length_m": 16093.44,
+  "planned_vehicles": 3597,
+  "traffic_lights": 0,
+  "stopped_vehicle_seconds": 0.0,
+  "departed_vehicles": 3597,
+  "arrived_vehicles": 3451,
+  "unfinished_vehicles": 146,
+  "not_departed_vehicles": 0,
+  "max_active_vehicles": 163,
+  "trajectory_rows": 2950938,
+  "collision_vehicle_events": 0,
+  "teleport_vehicle_events": 0,
+  "wall_time_seconds": 147.728,
+  "sampled_mean_headway_s": 6.004601039811307,
+  "actual_mean_entry_headway_s": 6.004727474972191
+}
